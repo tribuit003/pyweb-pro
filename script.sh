@@ -13,5 +13,5 @@ echo '### Log in to Docker ###'
 cd docker
 echo '### unzip data simple ###'
 sudo unzip data.zip
-echo '### run docker compose ###'
-docker-compose up
+# echo '### run docker compose ###'
+# docker-compose up
