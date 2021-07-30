@@ -21,3 +21,7 @@ Ctrl+L to Clear Screen
 
 # Import
 requests
+
+# Public
+ngrok
+Authtoken saved to configuration file: /home/ebui/.ngrok2/ngrok.yml

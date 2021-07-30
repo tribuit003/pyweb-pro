@@ -6,6 +6,11 @@
 # Kiểm tra có chạy được Database server hay chưa
 # Kiểm tra có chạy được Web server hay chưa
 
+# Tạo một trang web HTML tĩnh làm CV
+# Tạo một blog sử dụng Pythong Django
+# Tạo một trang tools - FAIL
+# Tạo một header có quote
+
 # sudo apt install zip -y
 # sudo zip -r data.zip data
 
