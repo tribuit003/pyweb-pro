@@ -20,3 +20,5 @@ echo '### unzip data simple ###'
 sudo unzip data.zip
 # echo '### run docker compose ###'
 # docker-compose up
+
+# ~/.gitconfig
